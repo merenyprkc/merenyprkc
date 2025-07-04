@@ -6,8 +6,8 @@
 
 ## 🧑 About Me
 
-- ⚔️ I'm currently working on The Great Khan.
-- 🌱 I'm currently learning Blender and PAWN coding.
+- ⚔️ I'm currently working on a Survival Project.
+- 🌱 I'm currently learning Blender.
 - 📨 How to reach me: merenyprkc@gmail.com
 - 📷 Connect with me on Instagram: <a href="https://instagram.com/meren.cs" target="blank">meren.cs</a>
 
