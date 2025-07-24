@@ -6,7 +6,7 @@
 
 ## 🧑 About Me
 
-- ⚔️ I'm currently working on a Survival Project.
+- ⚔️ I'm currently working on a <a href = "https://github.com/Eferene/survival-game">Survival Project</a>.
 - 🌱 I'm currently learning Blender.
 - 📨 How to reach me: merenyprkc@gmail.com
 - 📷 Connect with me on Instagram: <a href="https://instagram.com/meren.cs" target="blank">meren.cs</a>
