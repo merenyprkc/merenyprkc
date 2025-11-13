@@ -7,7 +7,6 @@
 ## 🧑 About Me
 
 - ⚔️ I'm currently working on a 🤫</a>.
-- 🌱 I'm currently learning DevExpress & SQL.
 - 📨 How to reach me: merenyprkc@gmail.com
 - 📷 Connect with me on Instagram: <a href="https://instagram.com/meren.cs" target="blank">meren.cs</a>
 
