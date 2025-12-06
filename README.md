@@ -1,18 +1,38 @@
-<h1 align= "center">👋 Hello there! I'm Muhammed Eren Yaprakcı.</h1>
-<h3 align = "center">💻 Someone who wants to be a game developer.</h3>
-<p align = "center"><img src = "https://i.pinimg.com/originals/18/ac/eb/18aceb9f361fa5dade24bfcc25ccf6f2.gif" width = "400"></p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi!+I'm+Muhammed+Eren;" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🧑 About Me
+### 👑 About Me
 
-- ⚔️ I'm currently working on a 🤫</a>.
-- 📨 How to reach me: merenyprkc@gmail.com
-- 📷 Connect with me on Instagram: <a href="https://instagram.com/meren.cs" target="blank">meren.cs</a>
+- 🔭 I’m currently working on: **A secret game project 🤫**
+- 🌱 I’m currently learning: **Advanced Unity Mechanics**
+- ⚡ Hobbies: **Game Design and Technology**
+  
+<div align="center">
+  
+  <a href="https://instagram.com/meren.cs" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:merenyprkc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
-<p align="center">
-  ✨ Thank you for checking out my GitHub profile! ✨  
-</p>
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🛠️ Skills & Tools
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
