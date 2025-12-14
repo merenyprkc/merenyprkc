@@ -6,7 +6,7 @@
 
 ### 👑 About Me
 
-- 🔭 I’m currently working on: **A secret game project 🤫**
+- 🔭 I’m currently working on: **Soul Claim: Survivors 🤫**
 - 🌱 I’m currently learning: **Advanced Unity Mechanics**
 - ⚡ Hobbies: **Game Design and Technology**
   
