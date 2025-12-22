@@ -6,7 +6,7 @@
 
 ### 👑 About Me
 
-- 🔭 I’m currently working on: **Soul Claim: Survivors 🤫**
+- 🔭 I’m currently working on: **[Soul Claim: Survivors](https://github.com/Eferene/Soul-Claim-Survivors)**
 - 🌱 I’m currently learning: **Advanced Unity Mechanics**
 - ⚡ Hobbies: **Game Design and Technology**
   
