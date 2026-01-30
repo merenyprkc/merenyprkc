@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi!+I'm+Muhammed+Eren;" alt="Typing SVG" />
 </div>
+<div align = "center"><a href="https://merenyprkc.github.io/">my portfolio</a></div>
 
 ---
 
