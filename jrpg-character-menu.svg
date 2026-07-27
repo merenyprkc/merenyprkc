@@ -215,6 +215,6 @@
   <!-- QUEST LOG -->
   <rect x="40" y="642" width="920" height="60" rx="8" fill="#1a1108" stroke="#ffd166" stroke-width="2"/>
   <text x="60" y="678" font-size="13" fill="#ffd166" font-family="'Courier New', Consolas, monospace" font-weight="bold" letter-spacing="1">QUEST LOG</text>
-  <text x="200" y="678" font-size="12" fill="#e8d9b0" font-family="'Courier New', Consolas, monospace">→ Soul Claim: Survivors <tspan fill="#8a5a2b">(Unity, active development)</tspan></text>
+  <text x="200" y="678" font-size="12" fill="#e8d9b0" font-family="'Courier New', Consolas, monospace">→ Kehanet <tspan fill="#8a5a2b">(Unity, active development)</tspan></text>
 
 </svg>
